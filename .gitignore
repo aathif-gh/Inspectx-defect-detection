@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+data/bottle/
+data/bottle.zip
+results/Patchcore/bottle/v2/
+results/Patchcore/bottle/v3/images/
+results/Patchcore/bottle/v3/weights/lightning/
